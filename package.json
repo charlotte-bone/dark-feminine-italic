@@ -4,11 +4,20 @@
     "description": "A colourful, feminine dark theme that supports italic fonts",
     "publisher": "Charlotte",
     "version": "1.0.0",
+    "author": {
+        "name": "Charlotte Bone",
+        "email": "charlotte.bone@gmail.com",
+        "url": "https://charlottesdigitalweb.com"
+    },
+    "icon": "logo.png",
     "engines": {
         "vscode": "^1.39.0"
     },
     "categories": [
         "Themes"
+    ],
+    "keywords": [
+        "dark", "pastel", "feminine", "pink", "colourful", "rainbow", "italic"
     ],
     "repository": {
         "type": "git",
