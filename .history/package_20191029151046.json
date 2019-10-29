@@ -1,0 +1,21 @@
+{
+    "name": "dark-feminine-italic",
+    "displayName": "Dark Feminine Italic",
+    "description": "A colourful, feminine dark theme that supports italic fonts",
+    "version": "1.0.1",
+    "engines": {
+        "vscode": "^1.39.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark Feminine Italic",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark Feminine Italic-color-theme.json"
+            }
+        ]
+    }
+}
