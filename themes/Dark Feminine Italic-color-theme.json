@@ -62,6 +62,7 @@
     "scrollbarSlider.hoverBackground": "#5A637580",
     "sideBar.background": "#21252B",
     "sideBarSectionHeader.background": "#333842",
+    "statusBar.debuggingBackground": "#B2476E",
     "statusBar.background": "#B2476E",
     "statusBar.foreground": "#FFFFFF",
     "statusBarItem.hoverBackground": "#9a3d5f",
@@ -100,6 +101,13 @@
     "terminal.ansiRed": "#f3518c",
     "terminal.ansiWhite": "#b5bbae",
     "terminal.ansiYellow": "#f6cc97",
+    "problemsErrorIcon.foreground": "#f571a1",
+    "problemsWarningIcon.foreground": "#DAFBAC",
+    "problemsInfoIcon.foreground": "#FAE3C6",
+    "notificationsErrorIcon.foreground": "#f571a1",
+    "notificationsWarningIcon.foreground": "#DAFBAC",
+    "notificationsInfoIcon.foreground": "#FAE3C6",
+    "notificationLink.foreground": "#fab0cb",
   },
   "tokenColors": [
     {
