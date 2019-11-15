@@ -13,3 +13,7 @@ All notable changes to the "dark-feminine-italic" extension will be documented i
 ## [1.0.3] - 15-11-2019
 
 - Added notification and problem icon colors
+
+## [1.0.4] - 15-11-2019
+
+- updating editor warning colours
